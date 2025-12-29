@@ -4,7 +4,7 @@
     <header
       class="p-4 border-b border-gray-300 flex justify-between items-center bg-indigo-600 text-white"
     >
-      <h1 class="text-2xl font-semibold">Mi Chatsito</h1>
+      <h1 class="text-2xl font-semibold">Happy Chat</h1>
       <div class="relative">
         <button id="menuButton" class="focus:outline-none">
           <svg

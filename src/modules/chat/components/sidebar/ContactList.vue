@@ -10,8 +10,8 @@
         />
       </div>
       <div class="flex-1">
-        <h2 class="text-lg font-semibold">Alice</h2>
-        <p class="text-gray-600">Hoorayy!!</p>
+        <h2 class="text-lg font-semibold">Franquito</h2>
+        <p class="text-blue-600">En Linea</p>
       </div>
     </div>
 </template>
